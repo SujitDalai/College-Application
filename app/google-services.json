@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "775265411113",
+    "project_id": "bml-munjal-university",
+    "storage_bucket": "bml-munjal-university.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775265411113:android:0fd8f6c8dafb17ab6d3c38",
+        "android_client_info": {
+          "package_name": "com.example.collageapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775265411113-4dc857dbt01e3e88bccsebf1p3c5t2eh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3alpC37d-HRK2CXnevAcaUe0q2sDHO5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775265411113-4dc857dbt01e3e88bccsebf1p3c5t2eh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
